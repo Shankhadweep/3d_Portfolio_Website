@@ -1,4 +1,5 @@
-![3dwebsite](https://github.com/Shankhadweep/3d_Portfolio_Website/assets/119057592/cdb8879e-421f-47be-8b66-7b911d05c873)
+
+![3dwebsite](https://github.com/Shankhadweep/3d_Portfolio_Website/assets/119057592/1bde8983-8517-4e80-a23b-88abf23c8a9c)
 
 # Personal 3D Portfolio Website
 
