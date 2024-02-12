@@ -184,7 +184,7 @@ import {
         },
       ],
       image:wether,
-      source_code_link: "https://shankhadweep.github.io/Advanced-Website-Checker-Using-Weather_API/",
+      source_code_link: "https://github.com/Shankhadweep/Advanced-Website-Checker-Using-Weather_API",
     },
   ];
   
