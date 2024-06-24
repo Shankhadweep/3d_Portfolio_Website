@@ -26,7 +26,7 @@ const Hero = () => {
               ],
             }} className='lg:inline'/></span></h1>
         <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-          I am a 3rd year engineering student in<br className='hidden'/> College of Engineering and Management, Kolaghat.<br className='hidden'/> I love to develop 3d visuals, user interfaces and web applications.
+          I am a 4th year engineering student in<br className='hidden'/> College of Engineering and Management, Kolaghat.<br className='hidden'/> I love to develop 3d visuals, user interfaces and web applications.
         </p>
         </div>
       </div>
